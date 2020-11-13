@@ -1,0 +1,1 @@
+# BeatCovid-Figma-App
