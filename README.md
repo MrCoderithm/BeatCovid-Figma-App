@@ -17,6 +17,15 @@ Public URL #2 to Youtube Video of Application Running
 https://www.youtube.com/watch?v=gIyaSr_tmaQ
 
 
+Top five new desirable functionalities
+1. Ability to help elderly all over the world
+2. Allow users to view world-wide daily stats of COVID
+3. Allowing people to communicate with certified Covid-19 doctors
+4. Allow users to upload documents so they can provide more information about their health
+5. Allow users to view covid 19 jobs and intern placements for volunteers or other people
+
+
+
 
 Main Page
 --------- 
