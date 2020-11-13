@@ -11,6 +11,9 @@ https://www.figma.com/file/3GwhQMnFijKVzmtIevd7Z7/Assignment2?node-id=0%3A1
 Public URL to Youtube Video of Application Running
 --------------------------------------------------
 https://youtu.be/zZqM-PR66Ww
+<br/>
+Public URL #2 to Youtube Video of Application Running
+--------------------------------------------------
 https://www.youtube.com/watch?v=gIyaSr_tmaQ&feature=youtu.be
 
 
