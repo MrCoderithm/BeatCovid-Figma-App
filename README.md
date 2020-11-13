@@ -1,5 +1,7 @@
 # BeatCovid-Figma-App
 
+This is a Covid App Idea, it shows different functionalities of what a covid app should be able to do. You can view up to date information regarding covid, including cases in all of Ontario and Canada. You can view latest news on Covid, You can chat with a volunteer if you are an elderly person who requires assistance you can ask them for help if required, You can customize your home page and edit settings as required, and much more. Screen shots provided down below. 
+
 Public URL to Figma Design 
 ---------------------------
 
@@ -8,7 +10,8 @@ https://www.figma.com/file/3GwhQMnFijKVzmtIevd7Z7/Assignment2?node-id=0%3A1
 
 Public URL to Youtube Video of Application Running
 --------------------------------------------------
-
+https://youtu.be/zZqM-PR66Ww
+https://www.youtube.com/watch?v=gIyaSr_tmaQ&feature=youtu.be
 
 
 
