@@ -7,6 +7,9 @@ Public URL to Figma Design
 
 https://www.figma.com/file/3GwhQMnFijKVzmtIevd7Z7/Assignment2?node-id=0%3A1
 
+Public URL to FINAL Figma Design 
+---------------------------
+https://www.figma.com/proto/6Cbry2rjTxwXk0BbMCnALZ/Assignment3-Final-Design?node-id=4%3A2&viewport=374%2C272%2C0.19511502981185913&scaling=scale-down
 
 Public URL to Youtube Video of Application Running
 --------------------------------------------------
